@@ -1,2 +1,2 @@
 # bootstrap-star-wars
-A Star Wars website using Bootstrap
+A Star Wars website skeleton using Bootstrap
